@@ -1,0 +1,29 @@
+body{
+    background-image: url("/img/background.jpg");
+}
+a{
+    color: yellow;
+}
+#about_h1{
+    color:white;
+    background-color: black;
+    text-align: center;
+}
+#about_ul{
+    color: black;
+    background-color: black;
+}
+#index_ul{
+    background-color: navy;
+}
+#index_h1{
+    text-align: center;
+    background-color: paleturquoise;
+    color: royalblue;
+}
+#index_li1{
+    background-color: cyan;
+}
+#index_h3{
+    font-size: x-large;
+}
